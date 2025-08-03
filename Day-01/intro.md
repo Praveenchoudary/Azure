@@ -76,3 +76,88 @@ Cloud computing offers **flexibility** by allowing you to choose between:
 ---
 
 🔗 *Cloud computing is the backbone of modern digital transformation — making tech accessible, scalable, and efficient!*
+
+
+# 🧠 Vocabulary in Cloud Computing
+
+Enhance your cloud knowledge with these essential terms! 🚀
+
+---
+
+### 🧰 Virtualization  
+Virtualization is the process of creating a **virtual version** of something — like an operating system, server, storage, or network resource.  
+🔹 Example: Running multiple OS instances on one physical server.
+
+---
+
+### 💻 Virtual Machine (VM)  
+A **Virtual Machine** is a software-based emulation of a physical computer.  
+🔹 It allows running multiple OS on a single physical machine.
+
+---
+
+### 🔗 API (Application Programming Interface)  
+An **API** is a set of rules and protocols that allow different software applications to **communicate** with each other.  
+🔹 Think of it as a waiter taking orders between you and the kitchen (software).
+
+---
+
+### 🌍 Regions  
+**Regions** are geographic locations where cloud providers have **data centers**.  
+🔹 Each region may contain multiple data centers for redundancy and performance.
+
+---
+
+### 🏢 Availability Zones  
+**Availability Zones (AZs)** are isolated locations within a region with separate power, cooling, and networking.  
+🔹 They provide **fault tolerance** and **high availability**.
+
+---
+
+### 📈 Scalability  
+**Scalability** is the system's ability to **handle growth** or increasing demand.  
+🔹 Vertical scaling (bigger machines)  
+🔹 Horizontal scaling (more machines)
+
+---
+
+### 🎚️ Elasticity  
+**Elasticity** refers to the ability to **dynamically scale resources** up or down based on current demand.  
+🔹 Pay-as-you-go model 💸
+
+---
+
+### ⚡ Agility  
+**Agility** is the ability to quickly and easily **adapt to changes**.  
+🔹 In cloud, it means rapid deployment of resources and applications.
+
+---
+
+### 🟢 High Availability (HA)  
+**High Availability** ensures a system remains **operational** for a high percentage of time (e.g., 99.9%).  
+🔹 Achieved via redundancy and failover systems.
+
+---
+
+### 🛡️ Fault Tolerance  
+**Fault Tolerance** is the ability of a system to **continue operating** even when parts of it fail.  
+🔹 Built-in mechanisms handle hardware/software failures.
+
+---
+
+### 🚨 Disaster Recovery  
+**Disaster Recovery (DR)** includes planning and processes to **restore data and services** after a disaster.  
+🔹 Critical for business continuity.
+
+---
+
+### ⚖️ Load Balancing  
+**Load Balancing** is the distribution of traffic or workload across multiple servers to ensure:  
+- 🔹 No single point of failure  
+- 🔹 Optimal performance  
+- 🔹 Better user experience
+
+---
+
+📝 *Mastering these terms is the first step to mastering the cloud!* ☁️💡
+
